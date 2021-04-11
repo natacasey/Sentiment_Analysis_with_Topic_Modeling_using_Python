@@ -35,6 +35,6 @@ Support Vector Machines with the decision function shape set to “ovo” and de
 - Sarcasm, irony, hyperbole, ambiguity detection
 
 ## Consideration for the future:
-Accuracy of predictions for the neutral class could be improved by addressing the multipolarity issue of the neutral class
+Accuracy of predictions for the neutral class could be improved by addressing the multipolarity issue of the neutral class reviews
 
 
